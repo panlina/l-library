@@ -1,0 +1,11 @@
+{
+  "name": "l-library",
+  "version": "0.0.0",
+  "description": "l language standard library",
+  "keywords": ["l", "standard library"],
+  "author": "Jack Lu <jacklu@jacklu.me>",
+  "license": "ISC",
+  "peerDependencies": {
+    "l": "github:panlina/l"
+  }
+}
